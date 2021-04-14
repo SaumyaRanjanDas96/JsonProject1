@@ -1,0 +1,17 @@
+
+{
+"userlogin" :[
+{
+"userid":"srd@gmail.com",
+"password":"srd1234"
+},
+{
+"userid":"admin",
+"password":"manager"
+},
+{
+"userid":"spd@gmail.com",
+"passwird":"spd1234"
+}
+]
+}

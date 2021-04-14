@@ -1,0 +1,21 @@
+{
+"firstname":"john",
+"lastname" :"kennedy",
+"adress": [
+{
+"street":"abc",
+"city"  :"hyderabad",
+"state" :"ap"
+},
+{
+"street":"xyz",
+"city"  :"chennai",
+"state" :"tn"
+}
+]
+}
+
+
+
+
+
